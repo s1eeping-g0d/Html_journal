@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<style>
+span.time {
+text-align: right;
+}
+body {
+text-decloration: underline;
+border: solid; black;
+padding; 20px, 20px, 20px
+}
+Signature {
+text-size: 20pt;
+text-font: Augustia;
+color: pink
+</style>
+<body>
+<p> 1/19/2025 <span class="time">4:32 a.m.</span>
+</p>
+<br>
+<p>
+Heyyyyy. This is my first attemtpt at all html jouranal sorta deal. Since I'm on my phone, I have to save code every time I want to test it, so hopefully I get this on the first try. I still don't quite know how to work on the html and CSS files at the same time so I used <style>. As I do this every day I hope I see fast progress. One of these days I'll find my laptop charger so I can code on there instead. This will indent at some point, right? Hope so. Anyways... Byeeeee :) </p>
+<br>
+<p class="signature"> Shalea </p>
+</body>
+</html>
+
+
+
+
+
