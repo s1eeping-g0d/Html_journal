@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+'''<html>
 <style>
 span.time {
 text-align: right;
@@ -23,7 +23,7 @@ Heyyyyy. This is my first attemtpt at all html jouranal sorta deal. Since I'm on
 <br>
 <p class="signature"> Shalea </p>
 </body>
-</html>
+</html>'''
 
 
 
