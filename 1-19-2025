@@ -9,10 +9,11 @@ text-declaration: underline;
 border: solid; black;
 padding; 20px, 20px, 20px, 20px;
 }
-Signature {
+signature {
 text-size: 20pt;
 text-font: Augustia;
 color: pink;
+}
 </style>
 <body>
 <p> 1/19/2025 <span class="time">4:32 a.m.</span>
