@@ -5,7 +5,7 @@ span.time {
 text-align: right;
 }
 body {
-text-decloration: underline;
+text-declaration: underline;
 border: solid; black;
 padding; 20px, 20px, 20px, 20px;
 }
